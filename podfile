@@ -1,0 +1,7 @@
+target 'yyRemoteDiagnosis’ do 
+pod 'AFNetworking'
+pod 'SVProgressHUD'
+pod 'SDWebImage'
+pod 'MJRefresh'
+pod 'IQKeyboardManager'
+end
